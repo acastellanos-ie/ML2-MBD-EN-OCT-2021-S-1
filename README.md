@@ -25,7 +25,7 @@ cd /home/acastellanos/Dropbox/IE/IE_ML/Practice Directory/machine_learning_2
 ```  
 Clone the repository
 ```
-git clone https://github.com/acastellanos-ie/ML2-MBD-EN-ABR-2021-A-1.git
+git clone https://github.com/acastellanos-ie/ML2-MBD-EN-OCT-2021-S-1.git
 ```
 
 After cloning you should see all the materials in your local folder (and your local folder will be connected to this repo).
