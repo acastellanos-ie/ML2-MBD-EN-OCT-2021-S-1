@@ -100,4 +100,4 @@ And now you’re ready to start!
 
 # Execute the notebooks remotely
 
-If you prefer to execute the notebooks remotely, launch an online notebook environment using [![Binder](https://mybinder.org/badge_logo.svg)]()
+If you prefer to execute the notebooks remotely, I am configured each notebooks so they can be easily executed at Google Colab. At the beginning of each notebook you have a button to open the notebook in Colab. Once in Colab, you just need to execute the configuration steps included at the beginning of each notebook.
