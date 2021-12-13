@@ -1,0 +1,13 @@
+ipympl
+matplotlib
+numpy
+pandas
+scikit-learn
+pandas-profiling
+seaborn
+pydotplus
+dtreeviz
+treeinterpreter
+plotly
+xgboost
+graphviz
