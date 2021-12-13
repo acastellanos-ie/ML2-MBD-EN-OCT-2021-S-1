@@ -5,7 +5,7 @@ In this repository you will find all the technical materials related to this cou
 
 Please read carefully the following instructions ([Using the ML2 environment](#using-the-ML2-environment)) to setup the environment needed for the practices if you want to configure your computer to execute the notebooks.
 
-If you prefer to execute them in an online environment, please refer to [Execute the notebooks remotely](#execute-the-notebooks-remotely). If you prefer to use Google Colab, at the beggining of each notebook you have a link to execute it in Colab.
+If you prefer to execute them in an online environment in Google Colab, please refer to [Execute the notebooks remotely](#execute-the-notebooks-remotely). 
 
 
 # Using the ML2 environment
